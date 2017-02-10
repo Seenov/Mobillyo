@@ -1,1 +1,3 @@
-
+The Mobillyo requires re-compilation of the caterina bootloader to account for different PID and VID and different TXLED  RXLED. 
+We follower Steven Casagrande's post "http://steven.casagrande.io/articles/compiling-arduino-caterina-with-new-vidpid/"
+His link to LUFA-111009 may be outdated.
