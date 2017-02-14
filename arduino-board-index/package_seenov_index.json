@@ -17,7 +17,7 @@
           "help": {
             "online": "http://seenov.com/forum"
           },
-          "url": "https://raw.githubusercontent.com/seenov/Mobillyo/arduino-board-index/boards/seenov_1_0_0.zip",
+          "url": "https://github.com/Seenov/mobillyo/blob/master/arduino-board-index/boards/seenov_1_0_0.zip?raw=true",
           "archiveFileName": "seenov_1_0_0.zip",
           "checksum": "SHA-256:fb3be4248383033dca5de69aef4543574ea7d0a62eeb98a66fa55dc657ddba9d",
           "size": "117716",
