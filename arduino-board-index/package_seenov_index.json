@@ -22,7 +22,7 @@
           "checksum": "SHA-256:ad87f664d5f26a85731161a48011ddbc55570d4bf70d5fb3cb1a88988908ed54",
           "size": "259623",
           "boards": [
-            {"name": "mobillyo"}
+            {"name": "Mobillyo"}
           ],
           "toolsDependencies": [
             {
