@@ -1,9 +1,9 @@
-{
+ {
   "packages": [
     {
-      "name": "mobillyo",
+      "name": "Mobillyo",
       "maintainer": "Seenov",
-      "websiteURL": "http://Seenov.com",
+      "websiteURL": "http://Seenov.com/",
       "email": "info@Seenov.com",
       "help": {
         "online": "http://seenov.com/forum"
@@ -17,10 +17,10 @@
           "help": {
             "online": "http://seenov.com/forum"
           },
-          "url": "https://github.com/Seenov/mobillyo/blob/master/arduino-board-index/boards/seenov_1_0_0.zip?raw=true",
+          "url": "https://raw.githubusercontent.com/Seenov/Mobillyo/arduino-board-index/boards/seenov_1_0_0.zip",
           "archiveFileName": "seenov_1_0_0.zip",
-          "checksum": "SHA-256:fb3be4248383033dca5de69aef4543574ea7d0a62eeb98a66fa55dc657ddba9d",
-          "size": "117716",
+          "checksum": "SHA-256:ad87f664d5f26a85731161a48011ddbc55570d4bf70d5fb3cb1a88988908ed54",
+          "size": "259623",
           "boards": [
             {"name": "mobillyo"}
           ],
