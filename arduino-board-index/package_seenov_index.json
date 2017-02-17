@@ -1,4 +1,4 @@
- {
+   {
   "packages": [
     {
       "name": "Mobillyo",
@@ -17,25 +17,14 @@
           "help": {
             "online": "http://seenov.com/forum"
           },
-          "url": "https://github.com/Seenov/mobillyo/arduino-board-index/boards/seenov_1_0_0.zip?raw=true",
+          "url": "http://seenov.net/MobillyoFiles/seenov_1_0_0.zip",
           "archiveFileName": "seenov_1_0_0.zip",
-          "checksum": "SHA-256:ad87f664d5f26a85731161a48011ddbc55570d4bf70d5fb3cb1a88988908ed54",
-          "size": "259623",
+          "checksum": "SHA-256:2865a559ae125e88dd778f8729110616d2f5e7c2a272d69596653c80fab7b1a2",  
+          "size": “54955”,
           "boards": [
-            {"name": "Mobillyo"}
+            {"name": "mobillyo"}
           ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
-            }
-          ]
+          "toolsDependencies": []
         }
         
       ],
