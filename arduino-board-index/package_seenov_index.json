@@ -12,7 +12,7 @@
         {
           "name": "Mobillyo",
           "architecture": "avr",
-          "version": “1.0.0”,
+          "version": "1.0.0",
           "category": "Mobillyo",
           "help": {
             "online": "http://seenov.com/forum"
@@ -22,7 +22,7 @@
           "checksum":"SHA-256:ca0d89b100629e27981b2cefb54fa20c6c6a26877f7f75ebed18bb305226e2fd",
           "size": "37026",
           "boards": [
-            {"name": “Mobillyo"}
+            {"name": "Mobillyo"}
           ],
           "toolsDependencies": []
         }
