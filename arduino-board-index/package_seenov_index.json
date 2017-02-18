@@ -18,7 +18,7 @@
             "online": "http://seenov.com/forum"
           },
           "url": "https://github.com/Seenov/mobillyo/blob/master/arduino-board-index/boards/seenov_1_0_0.tar.gz”,
-          "archiveFileName": "seenov_1_0_0.tar.gz”,
+          "archiveFileName": "seenov_1_0_0.tar.gz",
           "checksum":"SHA-256:ca0d89b100629e27981b2cefb54fa20c6c6a26877f7f75ebed18bb305226e2fd",
           "size": "37026",
           "boards": [
